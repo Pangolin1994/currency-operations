@@ -2,7 +2,7 @@ name := "PIM_Solutions"
 
 version := "1.0"
 
-scalaVersion := "2.13.4"
+scalaVersion := "2.13.7"
 
 scalacOptions ++= Seq(
   "-language:implicitConversions",
@@ -10,4 +10,4 @@ scalacOptions ++= Seq(
   "-Wnumeric-widen"
 )
 
-libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.7" % "test"
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.10" % "test"
