@@ -1,7 +1,7 @@
 .idea
 .bsp
-/null/*
-/project/*
-/target/*
+null
+/project/target/*
+target
 *.pdf
 *.sql
